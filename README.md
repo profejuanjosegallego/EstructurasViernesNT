@@ -1,2 +1,2 @@
-# EstructurasViernesNT
+# EstructurasViernesNT 🐍
 Sigamos practicando
